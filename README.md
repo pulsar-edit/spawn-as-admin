@@ -1,3 +1,5 @@
+# This Repo is archived under Pulsar-Edit since it is not used.
+
 # spawn-as-admin
 
 [![CI](https://github.com/atom/spawn-as-admin/actions/workflows/ci.yml/badge.svg)](https://github.com/atom/spawn-as-admin/actions/workflows/ci.yml)
